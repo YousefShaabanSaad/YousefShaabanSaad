@@ -4,9 +4,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=false&vCenter=true&multiline=true&width=600&height=80&lines=Mobile+App+Developer;Android+%7C+Flutter)](https://git.io/typing-svg)
 <br>
-*Building clean, scalable, and user-focused mobile applications*
 
+💻 **Android Developer** with a solid understanding of **Java** and **Kotlin**.  
+📱 Experienced in building Android applications using **modern architecture** and **best practices**.  
 
+🛠️ Comfortable working with:
+- Android Studio  
+- Gradle  
+- Object-Oriented Programming (OOP)
+
+🚀 Passionate about **continuous learning** and contributing to **production-ready Android applications**.
+
+🎓 **Computer Science Graduate**  
+Faculty of Science, Ain Shams University
 
 </div>
 
