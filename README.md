@@ -21,12 +21,11 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 📱 Mobile Development
+### 🔧 Tools & Platforms
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
@@ -55,8 +54,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yousef%20Shaaban-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef42/)
 [![Telegram](https://img.shields.io/badge/Telegram-@yousefShabaan42-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yousefShabaan42)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousefshaabansaad42@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+201142747343-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201142747343)
 
 </div>
+
 
 ---
 
