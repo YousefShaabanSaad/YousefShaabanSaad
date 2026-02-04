@@ -29,7 +29,6 @@
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -39,9 +38,10 @@
 
 <div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true)
+![Followers](https://img.shields.io/github/followers/YousefShaabanSaad?label=Followers&style=for-the-badge)
+![Total Repos](https://img.shields.io/badge/Total%20Repos-4-blue?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=YousefShaabanSaad&style=for-the-badge&color=00D9FF)
+![Top Language](https://img.shields.io/badge/Top%20Language-Java-orange?style=for-the-badge)
 
 </div>
 
@@ -60,8 +60,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=00D9FF)
-
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=ffffff"/>
 </div>
+
